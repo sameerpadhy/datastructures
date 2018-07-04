@@ -1,6 +1,5 @@
 package com.sameer.doublelist;
 
-import com.sameer.list.LinkedList;
 class Node{
 	int value;
 	Node next;
